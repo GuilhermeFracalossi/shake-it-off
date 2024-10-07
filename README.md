@@ -53,6 +53,10 @@ The seismic data is processed using various methods to clean and enhance the sig
   
 The `signal_processing()` function handles filtering and spike correction.
 
+### Output sample of signal processing
+![image](https://github.com/user-attachments/assets/d0f91a41-8316-479e-abd1-d4139800c0b8)
+
+
 ---
 
 ## Segmenting Seismic Data
